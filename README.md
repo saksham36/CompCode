@@ -1,16 +1,17 @@
 # Competitive Coding Leetcode Progress Tracker
 This is an archive of the competitive programming questions I practised on Leetcode.
-Problems Solved: **28**
+Problems Solved: **32**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 20/499 | 7/1003 | 1/399 |
+| 21/499 | 9/1003 | 2/399 |
 
 </br>
 
 |#| Title |Difficulty| 
 |:---:|:---|:---:|
 1 |[Two Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;two-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+4 |[Median of Two Sorted Arrays](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;median-of-two-sorted-arrays&#x2F;) |![Hard](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Hard-E91E62.svg)|
 7 |[Reverse Integer](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-integer&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 28 |[Implement Strstr](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;implement-strstr&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 31 |[Next Permutation](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;next-permutation&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
@@ -21,6 +22,8 @@ Problems Solved: **28**
 121 |[Best Time to Buy and Sell Stock](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;best-time-to-buy-and-sell-stock&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 122 |[Best Time to Buy and Sell Stock II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;best-time-to-buy-and-sell-stock-ii&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 138 |[Copy List with Random Pointer](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;copy-list-with-random-pointer&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+169 |[Majority Element](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;majority-element&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+287 |[Find the Duplicate Number](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;find-the-duplicate-number&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 303 |[Range Sum Query Immutable](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;range-sum-query-immutable&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 392 |[Is Subsequence](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;is-subsequence&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 509 |[Fibonacci Number](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;fibonacci-number&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
@@ -29,6 +32,7 @@ Problems Solved: **28**
 918 |[Maximum Sum Circular Subarray](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;maximum-sum-circular-subarray&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 938 |[Range Sum of Bst](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;range-sum-of-bst&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1010 |[Pairs of Songs with Total Durations Divisible by 60](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;pairs-of-songs-with-total-durations-divisible-by-60&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+1011 |[Capacity to Ship Packages Within D Days](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;capacity-to-ship-packages-within-d-days&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 1025 |[Divisor Game](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;divisor-game&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1108 |[Defanging An Ip Address](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;defanging-an-ip-address&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1115 |[Print Foobar Alternately](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;print-foobar-alternately&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
