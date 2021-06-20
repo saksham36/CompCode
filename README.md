@@ -1,10 +1,10 @@
 # Competitive Coding Leetcode Progress Tracker
 This is an archive of the competitive programming questions I practised on Leetcode.
-Problems Solved: **32**
+Problems Solved: **34**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 21/500 | 9/1006 | 2/399 |
+| 23/500 | 9/1006 | 2/399 |
 
 </br>
 
@@ -25,6 +25,8 @@ Problems Solved: **32**
 169 |[Majority Element](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;majority-element&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 287 |[Find the Duplicate Number](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;find-the-duplicate-number&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 303 |[Range Sum Query Immutable](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;range-sum-query-immutable&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+349 |[Intersection of Two Arrays](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;intersection-of-two-arrays&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+350 |[Intersection of Two Arrays II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;intersection-of-two-arrays-ii&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 392 |[Is Subsequence](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;is-subsequence&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 509 |[Fibonacci Number](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;fibonacci-number&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 669 |[Trim a Binary Search Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;trim-a-binary-search-tree&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
