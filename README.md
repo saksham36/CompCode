@@ -1,10 +1,10 @@
 # Competitive Coding Leetcode Progress Tracker
 This is an archive of the competitive programming questions I practised on Leetcode.
-Problems Solved: **34**
+Problems Solved: **36**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 23/500 | 9/1006 | 2/399 |
+| 25/500 | 9/1006 | 2/399 |
 
 </br>
 
@@ -13,12 +13,14 @@ Problems Solved: **34**
 1 |[Two Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;two-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 4 |[Median of Two Sorted Arrays](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;median-of-two-sorted-arrays&#x2F;) |![Hard](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Hard-E91E62.svg)|
 7 |[Reverse Integer](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-integer&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+21 |[Merge Two Sorted Lists](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;merge-two-sorted-lists&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 28 |[Implement Strstr](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;implement-strstr&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 31 |[Next Permutation](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;next-permutation&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 42 |[Trapping Rain Water](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;trapping-rain-water&#x2F;) |![Hard](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Hard-E91E62.svg)|
 53 |[Maximum Subarray](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;maximum-subarray&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 70 |[Climbing Stairs](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;climbing-stairs&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 83 |[Remove Duplicates from Sorted List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;remove-duplicates-from-sorted-list&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+88 |[Merge Sorted Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;merge-sorted-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 121 |[Best Time to Buy and Sell Stock](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;best-time-to-buy-and-sell-stock&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 122 |[Best Time to Buy and Sell Stock II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;best-time-to-buy-and-sell-stock-ii&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 138 |[Copy List with Random Pointer](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;copy-list-with-random-pointer&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
