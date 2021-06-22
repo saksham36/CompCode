@@ -1,10 +1,10 @@
 # Competitive Coding Leetcode Progress Tracker
 This is an archive of the competitive programming questions I practised on Leetcode.
-Problems Solved: **38**
+Problems Solved: **41**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 26/500 | 10/1006 | 2/399 |
+| 28/500 | 11/1006 | 2/399 |
 
 </br>
 
@@ -21,10 +21,13 @@ Problems Solved: **38**
 70 |[Climbing Stairs](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;climbing-stairs&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 83 |[Remove Duplicates from Sorted List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;remove-duplicates-from-sorted-list&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 88 |[Merge Sorted Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;merge-sorted-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+118 |[Pascals Triangle](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;pascals-triangle&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+119 |[Pascals Triangle II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;pascals-triangle-ii&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 121 |[Best Time to Buy and Sell Stock](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;best-time-to-buy-and-sell-stock&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 122 |[Best Time to Buy and Sell Stock II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;best-time-to-buy-and-sell-stock-ii&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 138 |[Copy List with Random Pointer](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;copy-list-with-random-pointer&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 169 |[Majority Element](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;majority-element&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+215 |[Kth Largest Element in An Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;kth-largest-element-in-an-array&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 287 |[Find the Duplicate Number](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;find-the-duplicate-number&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 303 |[Range Sum Query Immutable](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;range-sum-query-immutable&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 349 |[Intersection of Two Arrays](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;intersection-of-two-arrays&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
@@ -33,7 +36,7 @@ Problems Solved: **38**
 509 |[Fibonacci Number](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;fibonacci-number&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 669 |[Trim a Binary Search Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;trim-a-binary-search-tree&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 746 |[Min Cost Climbing Stairs](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;min-cost-climbing-stairs&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
-755 |[Global and Local Inversions](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;global-and-local-inversions&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+775 |[Global and Local Inversions](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;global-and-local-inversions&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 918 |[Maximum Sum Circular Subarray](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;maximum-sum-circular-subarray&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 938 |[Range Sum of Bst](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;range-sum-of-bst&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 977 |[Squares of a Sorted Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;squares-of-a-sorted-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
