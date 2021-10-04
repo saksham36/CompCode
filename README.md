@@ -1,10 +1,10 @@
 # Competitive Coding Leetcode Progress Tracker
 This is an archive of the competitive programming questions I practised on Leetcode.
-Problems Solved: **105**
+Problems Solved: **104**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 49/518 | 46/1080 | 10/432 |
+| 49/518 | 45/1080 | 10/432 |
 
 </br>
 
@@ -64,7 +64,6 @@ Problems Solved: **105**
 287 |[Find the Duplicate Number](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;find-the-duplicate-number&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 303 |[Range Sum Query Immutable](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;range-sum-query-immutable&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 322 |[Coin Change](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;coin-change&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
-322 |[Coin](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;coin&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 328 |[Odd Even Linked List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;odd-even-linked-list&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 344 |[Reverse String](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-string&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 347 |[Top K Frequent Elements](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;top-k-frequent-elements&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
