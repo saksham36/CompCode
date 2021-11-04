@@ -1,10 +1,10 @@
 # Competitive Coding Leetcode Progress Tracker
 This is an archive of the competitive programming questions I practised on Leetcode.
-Problems Solved: **123**
+Problems Solved: **133**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 52/523 | 58/1099 | 13/439 |
+| 55/523 | 64/1099 | 14/439 |
 
 </br>
 
@@ -20,6 +20,7 @@ Problems Solved: **123**
 25 |[Reverse Nodes in K Group](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-nodes-in-k-group&#x2F;) |![Hard](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Hard-E91E62.svg)|
 28 |[Implement Strstr](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;implement-strstr&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 31 |[Next Permutation](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;next-permutation&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+33 |[Search in Rotated Sorted Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;search-in-rotated-sorted-array&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 42 |[Trapping Rain Water](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;trapping-rain-water&#x2F;) |![Hard](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Hard-E91E62.svg)|
 53 |[Maximum Subarray](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;maximum-subarray&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 56 |[Merge Intervals](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;merge-intervals&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
@@ -76,6 +77,8 @@ Problems Solved: **123**
 349 |[Intersection of Two Arrays](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;intersection-of-two-arrays&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 350 |[Intersection of Two Arrays II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;intersection-of-two-arrays-ii&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 371 |[Sum of Two Integers](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;sum-of-two-integers&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+374 |[Guess Number Higher Or Lower](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;guess-number-higher-or-lower&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+375 |[Guess Number Higher Or Lower II](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;guess-number-higher-or-lower-ii&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 387 |[First Unique Character in a String](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;first-unique-character-in-a-string&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 389 |[Find the Difference](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;find-the-difference&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 392 |[Is Subsequence](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;is-subsequence&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
@@ -91,6 +94,7 @@ Problems Solved: **123**
 525 |[Contiguous Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;contiguous-array&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 543 |[Diameter of Binary Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;diameter-of-binary-tree&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 560 |[Subarray Sum Equals K](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;subarray-sum-equals-k&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+599 |[Minimum Index Sum of Two Lists](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;minimum-index-sum-of-two-lists&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 622 |[Design Circular Queue](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;design-circular-queue&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 669 |[Trim a Binary Search Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;trim-a-binary-search-tree&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 698 |[Partition to K Equal Sum Subsets](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;partition-to-k-equal-sum-subsets&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
@@ -115,6 +119,8 @@ Problems Solved: **123**
 1011 |[Capacity to Ship Packages Within D Days](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;capacity-to-ship-packages-within-d-days&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 1025 |[Divisor Game](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;divisor-game&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1036 |[Escape a Large Maze](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;escape-a-large-maze&#x2F;) |![Hard](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Hard-E91E62.svg)|
+1039 |[Minimum Score Triangulation of Polygon](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;minimum-score-triangulation-of-polygon&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+1080 |[Insufficient Nodes in Root to Leaf Paths](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;insufficient-nodes-in-root-to-leaf-paths&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 1092 |[Shortest Common Supersequence](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;shortest-common-supersequence&#x2F;) |![Hard](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Hard-E91E62.svg)|
 1108 |[Defanging An Ip Address](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;defanging-an-ip-address&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1115 |[Print Foobar Alternately](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;print-foobar-alternately&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
@@ -123,16 +129,20 @@ Problems Solved: **123**
 1190 |[Reverse Substrings Between Each Pair of Parentheses](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;reverse-substrings-between-each-pair-of-parentheses&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 1200 |[Minimum Absolute Difference](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;minimum-absolute-difference&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1207 |[Unique Number of Occurrences](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;unique-number-of-occurrences&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+1223 |[Dice Roll Simulation](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;dice-roll-simulation&#x2F;) |![Hard](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Hard-E91E62.svg)|
 1290 |[Convert Binary Number in a Linked List to Integer](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;convert-binary-number-in-a-linked-list-to-integer&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1334 |[Find the City with the Smallest Number of Neighbors At a Threshold Distance](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 1342 |[Number of Steps to Reduce a Number to Zero](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;number-of-steps-to-reduce-a-number-to-zero&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+1376 |[Time Needed to Inform All Employees](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;time-needed-to-inform-all-employees&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 1382 |[Balance a Binary Search Tree](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;balance-a-binary-search-tree&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 1480 |[Running Sum of 1d Array](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;running-sum-of-1d-array&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1514 |[Path with Maximum Probability](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;path-with-maximum-probability&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
+1572 |[Matrix Diagonal Sum](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;matrix-diagonal-sum&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1631 |[Path with Minimum Effort](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;path-with-minimum-effort&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 1641 |[Count Sorted Vowel Strings](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;count-sorted-vowel-strings&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 1672 |[Richest Customer Wealth](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;richest-customer-wealth&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 1710 |[Maximum Units on a Truck](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;maximum-units-on-a-truck&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+1721 |[Swapping Nodes in a Linked List](https:&#x2F;&#x2F;leetcode.com&#x2F;problems&#x2F;swapping-nodes-in-a-linked-list&#x2F;) |![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-FB8C00.svg)|
 
 </br></br>
 
