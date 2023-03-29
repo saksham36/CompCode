@@ -1,48 +1,52 @@
-class Solution {
-private:
-    bool isCyclic(int current, unordered_map<int, vector<int>>&dict, vector<bool>&checked, vector<bool>&path) {
-        // current checked. No cycle would be formed with this node
-        if(checked[current])
-            return false;
-        // detecting previously visited node -> cycle
-        if(path[current])
-            return true;
-        path[current] = true;
-        // Backtrack
-        bool result = false;
-        for(int child: dict[current]){
-            result = isCyclic(child, dict, checked, path);
-            if(result)
-                break;
+class Solution
+{
 
-        }
-        // Reset current path
-        path[current] = false;
-        checked[current] = true;
-        return result;
-    }
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int, vector<int>> dict;
+    bool canFinish(int numCourses, vector<vector<int>> &prerequisites)
+    {
+        if (prerequisites.size() == 0)
+            return true;
 
+        unordered_map<int, vector<int>> dict;
+        vector<int> degree(numCourses, 0);
+        queue<int> zeroDegree;
         // Making graph
-        for(auto &prereq: prerequisites){
-            if(dict.count(prereq[1])){
+        for (auto &prereq : prerequisites)
+        {
+            if (dict.count(prereq[1]))
+            {
                 dict[prereq[1]].push_back(prereq[0]);
             }
-            else{
-                vector<int>tmp {prereq[0]};
+            else
+            {
+                vector<int> tmp{prereq[0]};
                 dict[prereq[1]] = tmp;
+            }
+            degree[prereq[0]]++;
+        }
+        for (int i = 0; i < degree.size(); i++)
+        {
+            if (degree[i] == 0)
+            {
+                zeroDegree.push(i);
+                numCourses--;
             }
         }
 
-        vector<bool> checked(numCourses);
-        vector<bool> path(numCourses);
-
-        for(int i=0; i<numCourses; i++){
-            if(isCyclic(i, dict, checked, path))
-                return false;
+        while (zeroDegree.size() > 0)
+        {
+            int n = zeroDegree.front();
+            zeroDegree.pop();
+            for (int m : dict[n])
+            {
+                degree[m]--;
+                if (degree[m] == 0)
+                {
+                    zeroDegree.push(m);
+                    numCourses--;
+                }
+            }
         }
-        return true;
+        return numCourses == 0;
     }
 };
