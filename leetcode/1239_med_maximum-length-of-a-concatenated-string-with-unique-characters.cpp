@@ -38,4 +38,4 @@ public:
         unordered_map<char, int> resMap;
         return backtracking(arr, 0, resMap);
     }
-};
+};__GNUC_STDC_INLINE__
