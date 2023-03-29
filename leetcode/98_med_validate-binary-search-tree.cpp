@@ -12,17 +12,26 @@
 class Solution
 {
 public:
-    bool recursive_validate(TreeNode *root, TreeNode *low, TreeNode *high)
-    {
-        if (root == NULL)
-            return true;
-        if ((low != NULL && root->val <= low->val) || (high != NULL && root->val >= high->val))
-            return false;
-
-        return recursive_validate(root->right, root, high) && recursive_validate(root->left, low, root);
-    }
     bool isValidBST(TreeNode *root)
     {
-        return recursive_validate(root, NULL, NULL);
+        stack<TreeNode *> stk;
+        TreeNode *prev = NULL;
+
+        while (!stk.empty() || root != NULL)
+        {
+            while (root != NULL)
+            {
+                stk.push(root);
+                root = root->left;
+            }
+            root = stk.top();
+            stk.pop();
+
+            if (prev != NULL && root->val <= prev->val)
+                return false;
+            prev = root;
+            root = root->right;
+        }
+        return true;
     }
 };
